@@ -77,12 +77,15 @@ Perfect for Chinese cultural content:
 ## 🚀 Quick Start
 
 ### 1. Visit the Website
+
 Go to **[zimage.run](https://zimage.run)** - no login or registration required.
 
 ### 2. Enter Your Prompt
+
 Describe your desired image in Chinese or English:
 
 **Simple prompt:**
+
 ```
 A cat sitting on a windowsill
 ```
@@ -165,40 +168,51 @@ Click "Generate" and wait a few seconds. Download your high-resolution image for
 ### About Usage
 
 **Q: Is Z-Image really completely free?**
+
 A: Yes, completely free. No registration, no payment, no daily limits. Generated images can be used freely for personal and commercial projects.
 
 **Q: Do I need to log in?**
+
 A: No. Simply open the website and start generating immediately.
 
 **Q: Can I use generated images commercially?**
+
 A: Yes. All generated images belong to you and can be used freely for any purpose without watermarks or restrictions.
 
 **Q: Are there generation limits?**
+
 A: No. Generate unlimited images, completely free.
 
 ### About Features
 
 **Q: Does it support Chinese prompts?**
+
 A: Fully supported. Z-Image natively understands Chinese idioms, poetry, and cultural concepts - a unique advantage over Western AI models.
 
 **Q: How fast is generation?**
+
 A: Very fast. Using 8-step distillation technology, generation typically completes in seconds, 4x faster than traditional AI image generators.
 
 **Q: What is the image quality?**
+
 A: Photorealistic. In AI Arena evaluations, Z-Image matches top models like Midjourney v6 and Flux.1, especially excelling in Chinese cultural elements and text rendering.
 
 **Q: What image sizes are supported?**
+
 A: Multiple ratios including 1:1 (square), 16:9 (landscape), 9:16 (portrait), 4:3, etc., with maximum resolution up to 2048×2048.
 
 **Q: Can it generate images with text?**
+
 A: Yes. Z-Image excels at Chinese and English text rendering, perfect for posters, book covers, and social media graphics.
 
 ### About Technology
 
 **Q: What is Z-Image?**
+
 A: Z-Image is an open-source AI image generation model developed by Alibaba's Tongyi MAI team. Based on a 6B parameter diffusion architecture with 8-step ultra-fast inference and bilingual support.
 
 **Q: What's the difference from Midjourney and DALL-E?**
+
 A: Main differences:
 1. Z-Image is completely free; Midjourney and DALL-E require paid subscriptions
 2. 4x faster than Flux.1, 2-3x faster than DALL-E
@@ -207,9 +221,11 @@ A: Main differences:
 5. No login required, ready to use
 
 **Q: Why is Z-Image so fast?**
+
 A: Uses advanced 8-step distillation technology, compressing the traditional 50-step diffusion process to just 8 steps while maintaining high quality.
 
 **Q: Is Z-Image open source?**
+
 A: Yes. Licensed under Apache 2.0, with code and model weights publicly available on GitHub and Hugging Face.
 
 ## 🔗 Related Links
